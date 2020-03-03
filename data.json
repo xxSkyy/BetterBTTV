@@ -9,6 +9,7 @@
 	],
 	"channels": {
 		"h2p_gucio" : [
+			["RARECARAMBA", "1"],
 			["rareWitek", "5d9e68331df66f68c80c98dc"]
 		]
 	}
