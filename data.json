@@ -5,11 +5,14 @@
 		["RAREPOPE", "5e5d774995a74a54e386036f"],
 		["rareCaramba", "596b72057e71d43314a77551"],
 		["RARECARAMBA", "5e5d7f1595a74a54e38603e0"],
-		["pimpekSmash" , "5e3dcc64751afe7d553d5f76"]
+		["pimpekSmash" , "5e32e39d61ff6b51e6524bea"]
 	],
 	"channels": {
 		"skyy_xx" : [
 			["rareWitek", "5d9e68331df66f68c80c98dc"]
+		],
+		"h2p_gucio" : [
+			[ "AYAYAOUT", "5e1b6909bca2995f13fb50e5"]
 		]
 	}
 }
