@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BetterBetterTTV - Lepszy Lepszy Twitch TV!
 // @namespace    http://tampermonkey.net/
-// @version      0.6.6
+// @version      0.7.2.2
 // @description  Niech BTTv będzie naprawdę BETTER ! PogU
 // @author       Skyy_xx
 // @match        https://www.twitch.tv/*
