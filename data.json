@@ -4,8 +4,7 @@
 		["rarePope", "5d52fe5925570a0ac7e85130"],
 		["RAREPOPE", "5e5d774995a74a54e386036f"],
 		["rareCaramba", "596b72057e71d43314a77551"],
-		["RARECARAMBA", "5e5d7f1595a74a54e38603e0"],
-		["pimpekSmash" , "5e32e39d61ff6b51e6524bea"]
+		["RARECARAMBA", "5e5d7f1595a74a54e38603e0"]
 	],
 	"channels": {
 		"skyy_xx" : [
@@ -13,10 +12,8 @@
 		],
 		"h2p_gucio" : [
 			[ "AYAYAOUT", "5e1b6909bca2995f13fb50e5"],
-			[ "gachiW", "5ce66e8c1281d44f03de8051"],
 			[ "ppJedi", "5b52e96eb4276d0be256f809"],
-			[ "ricardoFlick", "5bc2143ea5351f40921080ee"],
-			["rareWitek", "5d9e68331df66f68c80c98dc"]
+			[ "ricardoFlick", "5bc2143ea5351f40921080ee"]
 		]
 	}
 }
