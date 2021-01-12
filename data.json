@@ -1,5 +1,5 @@
 {
-	"ayaya": ["ayaya", "ehehe", "momolewd", "nyanpls", "rainbowpls", "hyperneko", "aniblush", "kumapls", "anone"],
+	"ayaya": [ "TehePelo" ,"muniSmug" ,"japanaMore" ,"podrezAsa" , "ayaya", "ehehe", "momolewd", "nyanpls", "rainbowpls", "hyperneko", "aniblush", "kumapls", "anone", "SmugMLG", "emiliaTan" , "RemGasm", "blyYumiko", "stayLewd" ],
 	"ayayaExcluded": [ "AYAYAOUT" ],
 	"emotes": [
 		["rarePope", "5d52fe5925570a0ac7e85130"],
@@ -8,14 +8,23 @@
 		["RARECARAMBA", "5e5d7f1595a74a54e38603e0"],
 		["IbiszXD", "5d65a6744932b21d9c33454d"],
 		["ibiszBASS", "5d66c7d94932b21d9c334a81"],
-		[ "ricardoFlick", "5bc2143ea5351f40921080ee"]
+		[ "ricardoFlick", "5bc2143ea5351f40921080ee"],
+		["aleDuchota", "5fb38e3668e2d56f0f394aa9"],
+		["demonzF", "5fc0118068e2d56f0f3a280b"],
+		["demonzM", "5f1882fb6f37824466013122"],
+		["xD", "55c4cd66130b3c721ae66100"],
+		["demonzPhone", "5fcd2e41cac2fb4621e52c59"],
+		["SexFuck","5f31ca6c4510395d822b3f3e"],
+		["PogChamp","5ff66d8907a56b2fd5013d88"],
+		["PogU","5ea3bdb7ce7cbf62fe15ca16"],
+		["WeirdChamp","5e1b7b118af14b5f1b43996c"]
 	],
 	"channels": {
 		"skyy_xx" : [
 			["rareWitek", "5d9e68331df66f68c80c98dc"]
 		],
 		"h2p_gucio" : [
-			[ "GUCIOSD", "5e31a8435e6f5751e76c9a09"]
+			
 		]
 	}
 }
