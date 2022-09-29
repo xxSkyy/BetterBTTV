@@ -1,28 +1,109 @@
 {
-	"ayaya": [ "TehePelo" ,"muniSmug" ,"japanaMore" ,"podrezAsa" , "ayaya", "ehehe", "momolewd", "nyanpls", "rainbowpls", "hyperneko", "aniblush", "kumapls", "anone", "SmugMLG", "emiliaTan" , "RemGasm", "blyYumiko", "stayLewd" ],
-	"ayayaExcluded": [ "AYAYAOUT" ],
+	"ayaya": [
+		"TehePelo",
+		"muniSmug",
+		"japanaMore",
+		"podrezAsa",
+		"ayaya",
+		"ehehe",
+		"momolewd",
+		"nyanpls",
+		"rainbowpls",
+		"hyperneko",
+		"aniblush",
+		"kumapls",
+		"anone",
+		"SmugMLG",
+		"emiliaTan",
+		"RemGasm",
+		"blyYumiko",
+		"stayLewd",
+		"treeski",
+		"tyrissTail",
+		"TowaFukireta",
+		"PYAH",
+		"PaPaTuTuWaWa",
+		"OMEGALULiguess",
+		"momoLewdR",
+		"koroneSad",
+		"Kissu",
+		"marinHappy",
+		"MarinSmile",
+		"Kissaweeb",
+		"AnyaHype",
+		"animeJAM",
+		"Blushies",
+		"UwU",
+		"ayayaJAM"
+	],
+	"ayayaExcluded": [
+		"AYAYAOUT"
+	],
 	"emotes": [
-		["rarePope", "5d52fe5925570a0ac7e85130"],
-		["RAREPOPE", "5e5d774995a74a54e386036f"],
-		["rareCaramba", "596b72057e71d43314a77551"],
-		["RARECARAMBA", "5e5d7f1595a74a54e38603e0"],
-		["IbiszXD", "5d65a6744932b21d9c33454d"],
-		["ibiszBASS", "5d66c7d94932b21d9c334a81"],
-		[ "ricardoFlick", "5bc2143ea5351f40921080ee"],
-		["demonzM", "5f1882fb6f37824466013122"],
-		["xD", "55c4cd66130b3c721ae66100"],
-		["demonzPhone", "5fcd2e41cac2fb4621e52c59"],
-		["PogChamp","600c68dbf1cfbf65dbe08f1c"],
-		["PogU","5ea3bdb7ce7cbf62fe15ca16"],
-		["ZULUL","602c38a6d049042e32dc4c0a"],
-		["WeirdChamp","5e1b7b118af14b5f1b43996c"]
+		[
+			"rarePope",
+			"5d52fe5925570a0ac7e85130"
+		],
+		[
+			"RAREPOPE",
+			"5e5d774995a74a54e386036f"
+		],
+		[
+			"rareCaramba",
+			"596b72057e71d43314a77551"
+		],
+		[
+			"RARECARAMBA",
+			"5e5d7f1595a74a54e38603e0"
+		],
+		[
+			"IbiszXD",
+			"5d65a6744932b21d9c33454d"
+		],
+		[
+			"ibiszBASS",
+			"5d66c7d94932b21d9c334a81"
+		],
+		[
+			"ricardoFlick",
+			"5bc2143ea5351f40921080ee"
+		],
+		[
+			"demonzM",
+			"5f1882fb6f37824466013122"
+		],
+		[
+			"xD",
+			"55c4cd66130b3c721ae66100"
+		],
+		[
+			"demonzPhone",
+			"5fcd2e41cac2fb4621e52c59"
+		],
+		[
+			"PogChamp",
+			"600c68dbf1cfbf65dbe08f1c"
+		],
+		[
+			"PogU",
+			"5ea3bdb7ce7cbf62fe15ca16"
+		],
+		[
+			"ZULUL",
+			"602c38a6d049042e32dc4c0a"
+		],
+		[
+			"WeirdChamp",
+			"5e1b7b118af14b5f1b43996c"
+		]
 	],
 	"channels": {
-		"skyy_xx" : [
-			["rareWitek", "5d9e68331df66f68c80c98dc"]
+		"skyy_xx": [
+			[
+				"rareWitek",
+				"5d9e68331df66f68c80c98dc"
+			]
 		],
-		"h2p_gucio" : [
-			
-		]
+		"h2p_gucio": []
 	}
 }
